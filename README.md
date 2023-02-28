@@ -33,6 +33,7 @@ brew install fd
 brew install bat
 brew install fzf
 brew install gh
+brew install tree
 ```
 
 ### oh-my-zsh
