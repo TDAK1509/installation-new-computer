@@ -34,6 +34,7 @@ brew install bat
 brew install fzf
 brew install gh
 brew install tree
+brew install ripgrep
 ```
 
 ### oh-my-zsh
@@ -66,3 +67,7 @@ export FZF_DEFAULT_OPTS='--no-height --color=bg+:#343d46,gutter:-1,pointer:#ff3c
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 export FZF_CTRL_T_OPTS="--preview 'bat --color=always --line-range :50 {}'"
 ```
+
+### zoxide
+
+https://github.com/ajeetdsouza/zoxide
